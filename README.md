@@ -5,18 +5,18 @@ Status: In Progress
 
 
 Why I Built This
-AI-generated content is increasingly difficult to distinguish from human-created work. Most existing tools only handle one input type. This project aims to build a unified pipeline that handles text, images, and video under one interface — and makes the detection reasoning transparent to the user.
+AI-generated content is increasingly difficult to distinguish from human-created work. Most existing tools only handle one input type. This project aims to build a unified pipeline that handles text, images, and video under one interface and makes the detection reasoning transparent to the user.
 
 Current Features
 
-📝 Text detection — rule-based engine that analyzes textual patterns (perplexity, burstiness, sentence structure) to determine whether a message is AI-generated or human-written
+📝 Text detection: rule-based engine that analyzes textual patterns (perplexity, burstiness, sentence structure) to determine whether a message is AI-generated or human-written
 
 
 Planned Features
 
-🖼️ Image detection — identify AI-generated or manipulated images using a pretrained model
-🎥 Video detection — frame-by-frame analysis aggregated into a single confidence verdict
-📊 Confidence scoring — results returned as a percentage with a plain-language explanation
+🖼️ Image detection: identify AI-generated or manipulated images using a pretrained model
+🎥 Video detection: frame-by-frame analysis aggregated into a single confidence verdict
+📊 Confidence scoring: results returned as a percentage with a plain-language explanation
 
 
 Tech Stack
